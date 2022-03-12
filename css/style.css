@@ -6722,7 +6722,7 @@ span.ovrly_text2 {
 .index4_body_wrapper{
     margin: 0 auto;
     padding: 0;
-    background-image: url(../images/pattern.png);
+    background-image: url(https://sakibplus.github.io/love/images/pattern.png);
     background-repeat: repeat;
     height: 100%;
 	background-attachment:fixed;
@@ -6814,7 +6814,7 @@ span.ovrly_text2 {
 	width:auto;
 }
 .index4_playlist_wrap .adonis-player-horizontal{
-	background-image: url(../images/pattern.png);
+	background-image: url(https://sakibplus.github.io/love/images/pattern.png);
     background-repeat: repeat;
     z-index: 10000;
 }
